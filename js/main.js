@@ -7,8 +7,8 @@ const mensagemCentral = {
 const memorias = [
     { titulo: "🎮 Nossas Partidas de HOK", texto: "Cada partida que a gente joga junto é especial. Não importa se ganhamos ou perdemos, o que importa é estar com você. Você é minha dupla favorita e não tem ninguém que eu prefira ter no meu time.", img: "", pos: {x: 20, y: 8, z: 15}, color: 0xff6b9d },
     { titulo: "✨ Conexão Verdadeira", texto: "A gente nunca se viu pessoalmente, nunca fez call, mas isso não importa. Você é real pra mim. Sua presença, suas palavras, cada momento... tudo isso é real. E você é incrível.", img: "", pos: {x: -18, y: -10, z: -20}, color: 0x6b9dff },
-    { titulo: "💖 A Pessoa Mais Importante", texto: "Você foi a pessoa mais importante desse ano pra mim. Mesmo de longe, você esteve comigo nos melhores e piores momentos. Obrigado por tudo, de verdade.", img: "", pos: {x: -8, y: 15, z: -12}, color: 0x00ff88 },
-    { titulo: "🌟 Especial Demais", texto: "Não existe ninguém como você. Você tem algo especial, algo único. E eu sou muito grato por ter você na minha vida. Feliz 2025!", img: "", pos: {x: 15, y: -8, z: 18}, color: 0xffaa00 }
+    { titulo: "💖 A Pessoa Mais Importante", texto: "Você foi a pessoa mais importante desse ano pra mim. Mesmo de longe, você esteve comigo nos melhores e piores momentos. Obrigada por tudo, de verdade.", img: "", pos: {x: -8, y: 15, z: -12}, color: 0x00ff88 },
+    { titulo: "🌟 Especial Demais", texto: "Não existe ninguém como você. Você tem algo especial, algo único. E eu sou muito grata por ter você na minha vida. Feliz 2025!", img: "", pos: {x: 15, y: -8, z: 18}, color: 0xffaa00 }
 ];
 
 const scene = new THREE.Scene();
